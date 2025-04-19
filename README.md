@@ -46,13 +46,14 @@
 
 # Table of Contents
 
-
 - [llm 3 types of models](#llm-3-types-of-models)
 - [Types of LLMs](#types-of-llms)
     - [Autoregressive Models](#autoregressive-models)
     - [Autoencoding Models](#autoencoding-models)
     - [Sequence-to-Sequence (Seq2Seq) Models](#sequence-to-sequence-seq2seq-models)
 - [Architecture risks](#architecture-risks)
+- [Books](#books)
+
 
 
 ## llm 3 types of models
@@ -112,3 +113,14 @@ achieve better performance across a wider range of tasks.
 | Reproducibility Economics | The high cost of training LLMs limits reproducibility and independent verification, leading to a reliance on commercial entities and potentially unreviewed models.                                |
 | Model Trustworthiness     | The inherent stochastic nature of LLMs and their lack of true understanding can make their output unreliable. This raises questions about whether they should be trusted in critical applications. |
 | Encoding Integrity        | Data is often processed and re-represented in ways that can introduce bias and other issues. This is particularly challenging with LLMs due to their unsupervised learning nature.                 |
+
+
+
+##  Books
+
+| Title                                                                                                                                                           | Author(s)                                                                  | Link                                                                                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The Developer's Playbook for Large Language Model Security                                                                                                      | Steve Wilson                                                               | [https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/)                                                                       |
+| Generative AI Security: Theories and Practices (Future of Business and Finance)                                                                                 | Ken Huang, Yang Wang, Ben Goertzel, Yale Li, Sean Wright, Jyoti Ponnapalli | [https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517)                                                                 |
+| Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps | John Sotiropoulos                                                          | [https://www.packtpub.com/en-us/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985](https://www.packtpub.com/en-us/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985) |
+
