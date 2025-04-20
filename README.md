@@ -52,7 +52,13 @@
     - [Autoencoding Models](#autoencoding-models)
     - [Sequence-to-Sequence (Seq2Seq) Models](#sequence-to-sequence-seq2seq-models)
 - [Architecture risks](#architecture-risks)
+- [OWASP](#owasp)
+- [Monitoring](#monitoring)
 - [Books](#books)
+- [Blogs](#blogs)
+- [Social networks](#social-networks)
+- [Contributing](#contributing)
+
 
 
 
@@ -115,6 +121,24 @@ achieve better performance across a wider range of tasks.
 | Encoding Integrity        | Data is often processed and re-represented in ways that can introduce bias and other issues. This is particularly challenging with LLMs due to their unsupervised learning nature.                 |
 
 
+## OWASP
+| Title                                  | Link                                                                                                                                                                                                                                           |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OWASP Top 10 for LLM Applications 2025 | [https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-v2025.pdf](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-v2025.pdf) |
+
+
+
+
+## Monitoring
+
+Langfuse is an open-source LLM engineering platform designed to help teams monitor, trace, and improve the security and 
+reliability of their LLM-based applications. It provides both real-time and asynchronous tools for detecting, evaluating, 
+and responding to security risks in LLM workflows.
+
+| Tool                              | Link                    |
+|-----------------------------------|-------------------------|
+| Langfuse                          | https://langfuse.com/   |
+
 
 ##  Books
 
@@ -124,3 +148,23 @@ achieve better performance across a wider range of tasks.
 | Generative AI Security: Theories and Practices (Future of Business and Finance)                                                                                 | Ken Huang, Yang Wang, Ben Goertzel, Yale Li, Sean Wright, Jyoti Ponnapalli | [https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517)                                                                 |
 | Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps | John Sotiropoulos                                                          | [https://www.packtpub.com/en-us/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985](https://www.packtpub.com/en-us/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985) |
 
+
+## Blogs
+
+| Title           | Link                                                                         |
+|-----------------|------------------------------------------------------------------------------|
+| Embrace The Red | [https://embracethered.com/blog/](https://embracethered.com/blog/)           |
+| Kai's Blog      | [https://kai-greshake.de/](https://kai-greshake.de/)                         |
+| LLM Security    | [https://llmsecurity.net/](https://llmsecurity.net/)                         |
+| AI safety takes | [https://newsletter.danielpaleka.com/](https://newsletter.danielpaleka.com/) |
+| hackstery       | [https://hackstery.com/posts/](https://hackstery.com/posts/)                 |
+
+
+## Social networks
+| Title                                              | Link                         |
+|----------------------------------------------------|------------------------------|
+| LLM Security                                       | https://x.com/llm_sec        |
+| OWASP GenAI Security Project - Top 10 For LLM Apps | https://x.com/LLM_Top10      |
+| AI Village @ DEF CON                               | https://x.com/aivillage_dc   |
+| Pliny the Liberator                                | https://x.com/elder_plinius/ |
+| Telegram: llmsecurity                              | https://t.me/llmsecurity     |
