@@ -1,10 +1,13 @@
-<div align="center">
-<img src="img/green.svg" alt="Project Logo"/>
-<div align="/center">
-
 # AWESOME-LLMSECOPS
 
 <em>Elevating LLM Security with Operational Excellence.</em>
+
+<!-- BADGES -->
+<img src="https://img.shields.io/github/license/pi-2r/LLMSecOps?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+<img src="https://img.shields.io/github/last-commit/pi-2r/LLMSecOps?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/pi-2r/LLMSecOps?style=default&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/pi-2r/LLMSecOps?style=default&color=0080ff" alt="repo-language-count">
+
 
 > **LLMSecOps:** **S**ecuring **L**arge **L**anguage **M**odel **O**perations
 >
@@ -19,13 +22,11 @@
 
 - Protect LLM systems from data poisoning, model theft, prompt injection, adversarial attacks, and supply chain vulnerabilities
 
-
 - Ensure trust, compliance, and auditability in LLM models and their outputs
-
 
 - Embed security checks and continuous monitoring throughout the LLM pipeline, including CI/CD, deployment, and inference
 
-## Table of Contents
+# Table of Contents
 
 - [llm 3 types of models](#llm-3-types-of-models)
 - [Types of LLMs](#types-of-llms)
@@ -135,9 +136,6 @@ The LLMSecOps life cycle typically covers the following stages, each with specif
 | **5. Model Acceptance Testing**   | Verify model quality, explainability, and robustness. Perform security audits and adversarial testing to detect vulnerabilities.                               |
 | **6. Model Deployment**           | Package and deploy models securely. Implement CI/CD with security checks, and validate models before production.                                               |
 | **7. Model Monitoring & Control** | Continuously monitor models for performance, drift, and anomalous behaviors. Detect and respond to threats, retrain as needed.                                 |
-
-<img src="img/llmsecops_lifecycle.png" alt="Project Logo"/>
-
 
 
 ## Tools Attack and defense
