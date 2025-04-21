@@ -2,13 +2,6 @@
 
 <em>Elevating LLM Security with Operational Excellence.</em>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/github/license/pi-2r/LLMSecOps?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-<img src="https://img.shields.io/github/last-commit/pi-2r/LLMSecOps?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/pi-2r/LLMSecOps?style=default&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/pi-2r/LLMSecOps?style=default&color=0080ff" alt="repo-language-count">
-
-
 > **LLMSecOps:** **S**ecuring **L**arge **L**anguage **M**odel **O**perations
 >
 >LLMSecOps (Large Language Model Security Operations) is an emerging discipline focused on integrating security best 
